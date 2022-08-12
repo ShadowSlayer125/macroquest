@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29209.62
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "plugins", "plugins", "{A648B03F-7642-4857-A62A-AFABC7CAB451}"
 EndProject
@@ -222,6 +222,7 @@ Global
 		{312C5DE6-34C8-4474-B186-12989694C780}.Debug|x64.ActiveCfg = Debug|x64
 		{312C5DE6-34C8-4474-B186-12989694C780}.Release|Win32.ActiveCfg = Release|Win32
 		{312C5DE6-34C8-4474-B186-12989694C780}.Release|x64.ActiveCfg = Release|x64
+		{312C5DE6-34C8-4474-B186-12989694C780}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
